@@ -1,17 +1,13 @@
 @import url('https://fonts.googleapis.com/css2?family=Rubik:wght@700&display=swap');
 
-    h1, p {
+    h1 {
 text-align: center;
 font-family: 'Rubik', sans-serif;
 }
 
 body {
-  background-color:#e6f1de;
-  margin: auto;
-  display: grid;
-  place-items: center;
+  background-color:#e6f1de
 }
-
 .button {
   background-color: #4CAF50;
   border: none;
